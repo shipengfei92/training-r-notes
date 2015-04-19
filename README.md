@@ -13,3 +13,5 @@
 [20150417](https://github.com/shipengfei92/training-r-notes/blob/master/20150417%E6%95%B0%E6%8D%AE%E8%AE%AD%E7%BB%83%E8%90%A5.md)
 
 [20150418](https://github.com/shipengfei92/training-r-notes/blob/master/20150418%E6%95%B0%E6%8D%AE%E8%AE%AD%E7%BB%83%E8%90%A5.md)
+
+[20150419](https://github.com/shipengfei92/training-r-notes/blob/master/20150419%E6%95%B0%E6%8D%AE%E8%AE%AD%E7%BB%83%E8%90%A5.md)
