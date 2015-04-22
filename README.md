@@ -19,3 +19,5 @@
 [20150419——第4章9-12节（基本数据管理II）](https://github.com/shipengfei92/training-r-notes/blob/master/20150419%E6%95%B0%E6%8D%AE%E8%AE%AD%E7%BB%83%E8%90%A5.md)
 
 [20150420——第5章1-3节（高级数据管理I）](https://github.com/shipengfei92/training-r-notes/blob/master/20150420%E6%95%B0%E6%8D%AE%E8%AE%AD%E7%BB%83%E8%90%A5.md)
+
+[20150422——第5章4-6节（高级数据管理II）](https://github.com/shipengfei92/training-r-notes/blob/master/20150420%E6%95%B0%E6%8D%AE%E8%AE%AD%E7%BB%83%E8%90%A5.md)
